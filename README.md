@@ -93,3 +93,6 @@ FRONT-END: Desenvolvimento do site em HTML, CSS e Java-script
 
 BACK-END: PHP, Node,C#, Java, python entre outros.
 
+	<strong> SITE COM TAGS MAIS UTILIZADAS NO VS CODE</strong>
+	
+	https://dev.to/dwtoledo/tags-html-mais-utilizadas-codigo-semantico-e-dicas-do-vs-code-36fg
