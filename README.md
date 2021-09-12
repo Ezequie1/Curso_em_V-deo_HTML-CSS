@@ -1,4 +1,5 @@
-# Curso_em_V-deo_HTML-CSS
+# Curso_em_V-deo_HTML-CSS       (https://github.com/gustavoguanabara)
+
 Exercícios do curso de HTML e CSS do curso em vídeo
 
 Inthernet antigamente= Gophermedia
